@@ -69,4 +69,3 @@ MIT
 
 ---
 
-Let me know if you also want a `README.md` file for this with formatting.
