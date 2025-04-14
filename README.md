@@ -26,6 +26,8 @@ RAJA Token (RTC) is a beginner-friendly custom ERC20 token built using Solidity 
 
 ![image](https://github.com/user-attachments/assets/add00363-ed2b-4b3a-bbb3-05b4cddafa6f)
 ![image](https://github.com/user-attachments/assets/d8b05096-56aa-40c8-bf04-7cf3fe298dc0)
+![image](https://github.com/user-attachments/assets/3a3e9546-37e6-4e1a-918b-4d17e42cc61a)
+
 
 
 
