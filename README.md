@@ -1,6 +1,4 @@
-Here’s a clean and beginner-friendly **GitHub description** for your ERC20 token project 👇
 
----
 
 ### 🪙 RAJA Token (RTC) – Custom ERC20 Token on Sepolia
 
